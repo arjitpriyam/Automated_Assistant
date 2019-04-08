@@ -2,6 +2,7 @@
 
 ## NOTE
 ### For using this, clone the repository and simply run the final.py file and have fun. 
+### Other files can be used as a reference for futher projects. 
 
 ## Installation
 
