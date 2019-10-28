@@ -35,4 +35,4 @@ The user asks for a specific song and the application searches it throughout You
 It creates a vlc media player instance and plays the song through it.
 
 ### Remember important information
-You can use this to save the information and retrieve when neeneded.
+You can use this to save the information and retrieve when needed.
